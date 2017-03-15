@@ -50,13 +50,14 @@ var logic = function(){
 	}else if(addition > total){
 		losses = losses +1;
 
-		audio.play();
+
 		restart();
 
 	}else{
 			updateAddition();
 	}
 }
+
 $('.total').append(total);
 
 $('.addition').append(addition);
