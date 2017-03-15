@@ -22,15 +22,18 @@ header{
 	background-color: #EBD089;
 	margin-bottom: 10px;
 }
+
 p{
 	color: green;
 	padding: 5px;
 }
+
 .start{
 	height:105px;
 	width: 300px;
 	display: inline-block;
 }
+
 .total{
 	width:150px;
 	height:90px;
@@ -39,6 +42,7 @@ p{
 	font-size:30px;
 	color:#8A358F;
 }
+
 .result{
 	width:100px;
 	height:100px;
@@ -46,6 +50,7 @@ p{
 	margin-left: 160px;
 	margin-top: -90px;
 }
+
 .click{
 	width: 80px;
 	height:80px;
@@ -57,10 +62,12 @@ p{
 	background-color: #12B5A2;
 	margin-bottom: 10px;
 }
+
 h5{
 	color:white;
 	padding-top: 7px;
 }
+
 .addition{
 	width:180px;
 	height:90px;
